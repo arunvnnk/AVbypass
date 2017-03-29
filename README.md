@@ -5,3 +5,7 @@ It is not a vulnerability, just another way to try to bypass the AV. The scenari
 It is assumed that the pen-tester has the credentials for the local windows machine.
 
 The template file is based on subtee's https://gist.github.com/subTee/408d980d88515a539672
+
+Read the wiki for detailed insructions for building the payload. There are also some pointers regarding payload delivery that can be ignored if you have your specific method.
+
+
