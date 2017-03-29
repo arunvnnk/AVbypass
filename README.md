@@ -8,4 +8,4 @@ The template file is based on subtee's https://gist.github.com/subTee/408d980d88
 
 Read the wiki for detailed insructions for building the payload. There are also some pointers regarding payload delivery that can be ignored if you have your specific method.
 
-
+This gets past most major AV solutions but not all of them. I am guessing that we will have to do manually check the signature and try to change it for the AVs that are flagging this.
