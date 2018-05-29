@@ -10,3 +10,5 @@ Read the wiki for detailed insructions for building the payload. There are also 
 
 The payload generated from the python script gets past all major AV solutions. 
 If the shellcode is copied directly into the csharp script, then some AV solutions detect it as malicous (but even this is very few)
+
+Dependencies for kali3 - mono-complete
